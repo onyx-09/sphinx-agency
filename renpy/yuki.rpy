@@ -1,0 +1,1 @@
+define Y = Character("Yuki Yukino")

@@ -1,0 +1,1 @@
+define K = Character("Kage Akari")

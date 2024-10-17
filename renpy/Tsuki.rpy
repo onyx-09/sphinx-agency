@@ -1,0 +1,1 @@
+define T = Character("Tsuki Daisuki")

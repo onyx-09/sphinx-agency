@@ -1,0 +1,1 @@
+define S = Character("Shiro Star")
