@@ -95,3 +95,16 @@ S "How dare you! I’ll have you know that my unique style is all the rage in th
 "Miru, with her dark skin and black hair tied in two playful buns, sighed dramatically."
 M"Cut it out, you two! You’re making Yume die from laughter, and all eyes are on you!"
 "Yume, still giggling, managed to gasp,"
+y "But it’s so funny! I can’t help it!"
+"Miru rolled her eyes and sighed"
+M  "and here I was told to be the one that delayed stuff the most due to my nature of focusing on one thing "
+M "when I start it but what are you three doing making newbie get filled up with all this chaos,"
+M "right on their first day of work?"
+"Yuki let out a sigh in and out and agreed with Miru not apologizing or anything"
+"but taking responsibility to calm down and continue the argument later"
+"but Shiro wasn’t done it seemed cause she said"
+S "hah! Loser!
+"making Yuki go up to her give her a piercing glare and shutting her up as Yume’s laughter too calmed down
+"As Yuki shot Shiro a piercing glare,"
+"the atmosphere shifted dramatically. Shiro’s confident smirk faltered,"
+S "Whoa, whoa, Yuki! No need to unleash the death stare! I’m just kidding!"
