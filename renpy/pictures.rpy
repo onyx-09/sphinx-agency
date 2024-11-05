@@ -1,3 +1,1 @@
-#bgs go here
-
-#characters go here
+image bg classroom = "classroom.png"

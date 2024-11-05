@@ -3,12 +3,17 @@ define config.mouse = {"default":[ ("gui/mouse.png", 1, 1) ] }
 label splashscreen:
 scene splashscreen
 
-"warning, this game has loads of mature and disturbing things"
-"thus it is not for kids or those that are easily disturbed,"
-"do you still wish to continue?"
+"This game contains themes of violence, abuse, and psychological distress and heavy topics."
+"that can be found in our website:"
+"Player discretion is advised."
+"if you relate to a character and feel like you are going through the same"
+"please seek help and not let youreself suffer"
+"do you wish to continue?"
 menu:
  "yes":
   "press anywhere to start"
+ "no":
+  "if you don't feel comfrtable with the said topics please delete the game."
 
 return
 

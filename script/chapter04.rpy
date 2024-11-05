@@ -71,3 +71,5 @@ scene black
 "What dark deeds led to this blight?  "
 "Shhh… listen close, for the answer’s near,  "
 "In the silence, the truth is clear"
+
+jump chapter05

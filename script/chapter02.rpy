@@ -3,6 +3,7 @@ define b = Character("Bully #2")
 define u = Character("???")
 
 label chapter02:
+scene classroom with dissolve
 "it had been a few days sence Avaline"
 "I've been lacking in studies a little"
 "due to remembering her and how she..."
@@ -23,6 +24,7 @@ B "am I rightttttt?"
 pov "HEY!"
 pov "GIVE THAT BACK!"
 "I stand up and reached for the notebook only for her to step away and make me stumble over my feet"
+scene hallway
 "I then got up and chased after her recklessly kick down the items blocking my way"
 "eventually she trips and I get my notebook back while her minion checks up on her while I roll my eyes"
 "and deadpanningly say"

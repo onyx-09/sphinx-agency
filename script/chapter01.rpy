@@ -4,6 +4,8 @@ define B = Character("Bully#2")
 label chapter01:
 play music "music/Veil of mysteries. - Patrick Patrikios.mp3"
 
+show bg classroom 
+
 "I was sitting at my desk preparing for my next class"
 "when two of my classmates came in and poured water on my head"
 "I burst into laughter making the two confused"

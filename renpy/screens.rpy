@@ -275,7 +275,6 @@ style quick_button:
 style quick_button_text:
     properties gui.button_text_properties("quick_button")
 
-
 ################################################################################
 ## Main and Game Menu Screens
 ################################################################################
