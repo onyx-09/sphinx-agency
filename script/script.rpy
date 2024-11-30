@@ -1,5 +1,6 @@
 define config.mouse = {"default":[ ("gui/mouse.png", 1, 1) ] }
 
+
 label splashscreen:
 scene splashscreen
 
@@ -16,6 +17,7 @@ menu:
   "if you don't feel comfrtable with the said topics please delete the game."
 
 return
+
 
 label start:
 # character

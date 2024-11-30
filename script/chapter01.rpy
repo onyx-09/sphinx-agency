@@ -2,7 +2,7 @@ define b = Character("Bully#1")
 define B = Character("Bully#2")
 
 label chapter01:
-play music "music/Veil of mysteries. - Patrick Patrikios.mp3"
+play music "music/inspiring-emotional-uplifting-piano-112623.mp3"
 
 show bg classroom 
 
